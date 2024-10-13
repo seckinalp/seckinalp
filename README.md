@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seckin</h1>
-<h3 align="center">A passionate programmer from Ankara/Turkiye. Undergraduate computer science student at Bilkent University.</h3>
+<h3 align="center">A passionate programmer from Paris. </h3>
 
 - 📫 How to reach me **seckinalpkargi@gmail.com**
 
