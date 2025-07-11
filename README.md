@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Seckin</h1>
-<h3 align="center">A passionate programmer from Turkey. </h3>
+<h1 align="center">hi </h1>
 
 - 📫 How to reach me **seckinalpkargi@gmail.com**
 
